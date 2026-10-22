@@ -1,4 +1,4 @@
-module github.com/xo/dbtpl
+module github.com/supplyon/dbtpl
 
 go 1.26
 

@@ -14,6 +14,7 @@ func init() {
 		"Source": reflect.ValueOf(format.Source),
 
 		// type definitions
+		"Extra":   reflect.ValueOf((*format.Extra)(nil)),
 		"Options": reflect.ValueOf((*format.Options)(nil)),
 	}
 }

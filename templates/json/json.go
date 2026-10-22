@@ -9,7 +9,7 @@ import (
 	"strings"
 	"text/template"
 
-	xo "github.com/xo/dbtpl/types"
+	xo "github.com/supplyon/dbtpl/types"
 )
 
 // Init registers the template.

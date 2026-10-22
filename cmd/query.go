@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xo/dbtpl/loader"
-	xo "github.com/xo/dbtpl/types"
+	"github.com/supplyon/dbtpl/loader"
+	xo "github.com/supplyon/dbtpl/types"
 )
 
 // loadQuery loads a query.
